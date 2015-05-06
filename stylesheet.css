@@ -1,0 +1,504 @@
+body
+{
+	background-color:#0b2c57;
+}
+
+#row1
+{
+	background-color:#006699;
+	color:white;
+	margin-left: 130px;
+	
+	width:1000px;
+	height:120px;
+	border-left:5px solid white;
+	border-right:5px solid white;
+
+}
+
+#box1
+{
+	background-color:white;
+	width:120px;
+	height:120px;
+	margin-left:30px;
+	
+}
+
+
+
+h1
+{
+	margin-left:240px;
+	margin-top:-100px;
+	
+
+}
+p
+{
+	margin-left:320px;
+	margin-top:20px;
+	
+}
+
+#row2
+{
+	background-color:white;
+	width:1040px;
+	height:30px;
+	margin-left:115px;
+	
+}
+
+.row2
+{
+	text-align:center;
+	color:orange;
+	padding:5px;
+
+}
+#row2 .row2 a
+{
+	color:orange;
+	text-decoration:none;
+}
+
+#row2 .row2 a:hover
+{
+ 	color:#0b2c99;
+ 	text-decoration:none;
+}
+
+#row3
+{
+	width:1000px;
+	height:280px;
+	border-left:5px solid white;
+	border-right:5px solid white;
+	margin:auto auto auto 130px;
+
+}
+
+#row4,#row7
+{	
+	width:1040px;
+	height:6px;
+	background-color:white;
+	margin-left:115px;
+}
+
+#row5
+{
+ 	width:1000px;
+	height:40px;
+	margin:auto auto auto 145px;
+}
+
+ .row5
+{	
+	color:white;
+	text-align:centre;
+	padding:10px;
+	
+}
+ .row5 a
+{	
+	
+	color:white;
+	text-decoration:none;
+	display:block;
+	
+}
+ .row5 a span
+{
+	display:none;
+	color:#0b2c99;
+}
+  .row5 a span table
+{
+	background-color:#ffff99;
+	margin-left:-30px;
+	border-left:5px solid orange;
+	border-bottom:1px solid orange;
+	border-right:1px solid orange;
+}
+
+  .row5 a span table .submenu
+{
+	color:black;
+}
+  .row5 a:hover
+{	
+	
+	background-color:orange;
+	color:white;
+	text-decoration:underline;
+
+	
+}
+
+  .row5 a:hover span
+{
+	position:absolute;
+	display:block;	
+}
+
+
+
+#row6
+{
+	background-color:#cee4f2;
+	width:1020px;
+	height:450px;
+	margin:auto auto auto 130px;
+}
+#r6box1
+{
+	width:250px;
+	height:440px;
+	background-color:#a7dbd8;
+	spacing:3px;
+	margin:3px auto 5px 3px;
+	display:inline-block;
+	border:1px solid #a7dbd8;
+	border-radius:8px;
+}
+#r6box2
+{
+	width:350px;
+	height:440px;
+	background-color:#a7dbd8;
+	display:inline-block;
+	margin:3px auto 5px 3px;
+	border-radius:8px;
+}
+
+#r6box3
+{
+	width:400px;
+	height:440px;
+	background-color:#a7dbd8;
+	display:inline-block;
+	margin:3px auto 5px 3px;
+	border-radius:8px;
+}
+#r6b1t
+{
+	border-radius:15px;
+	margin-top:10px;
+}
+
+.r6b1
+{
+	background-color:#006699;
+	border:2px solid black;
+	width:240px;
+	height:70px;
+	border-radius:20px;
+
+}
+.myxy1
+{
+	margin:-2px auto auto 30px;
+	color:orange;
+}
+.r6b1 a
+{
+	display:block;
+	text-decoration:none;
+	color:orange;
+}
+.r6b1 a:hover
+{
+	text-decoration:none;
+	background-color:#99ccff;
+}
+span
+{
+	margin:auto auto auto 30px;
+	text-decoration:none;
+	color:white;
+}
+
+#r6b2t,#r6b3t
+{
+	border-radius:8px;
+	
+
+}
+
+#r6b2h,#r6b3h
+{
+	color:white;
+	font-size:30px;
+	font-family:Sakkal Majalla,Arial;
+	margin-left:130px;
+	text-decoration:underline;
+}
+.r6b2 a
+{
+	color:#cc6600;
+	margin-top:-2px;
+	font-size:18px;
+	text-decoration:none;
+	
+}
+.r6b2 a:hover
+{
+	text-decoration:none;
+	
+}
+.r6b2c
+{
+	background-color:#99ccff;
+}
+.r6b2c .r6b2:hover ,.r6b2c1 .r6b2:hover
+{
+	background-color:#ccffff;
+}
+.r6b2c1
+{
+	background-color:skyblue;
+}
+
+
+
+.r6b3
+{
+	background-color:skyblue;
+}
+#r6b3r1
+{
+	background-color:#99ccff;
+}
+.r6b3tx a
+{
+	font-family:Arial;
+	font-size:13px;
+	text-decoration:none;
+	color:#333366;
+}
+.r6b3tx a:hover
+{
+	text-decoration:none;
+}
+.r6b3 .r6b3tx:hover
+{
+	background-color:#ccffff;
+}
+
+#row8
+{
+	width:1020px;
+	height:80px;
+	background-color:#a7dbd8;
+	color:blue;
+	margin-left:130px;
+}
+
+/* ********************contact new page*********************** */
+
+#frow2
+{	
+	width:1000px;
+	height:150px;
+	margin-left:130px;
+	border-left:5px solid white;
+	border-right:5px solid white;
+	
+}
+
+#frow5
+{
+ 	width:1000px;
+	height:40px;
+	margin:auto auto auto auto;
+	border:1px solid white;
+}
+#ftable
+{
+	margin-left:135px;
+}
+#flast
+{
+	width:1000px;
+	height:30px;
+	border:1px solid white;
+	margin:5px auto auto 130px;
+	background-color:#ccccff;
+	text-align:center;
+	font-size:14px;
+	color:white;
+}
+#t1
+{
+	background-color:#3399ff;
+	border-radius:8px;
+	color:white;
+	font-size:18px;
+} 
+#t1 table
+{
+	margin-top:-450px;
+}
+.xy1
+{
+	border-bottom:1px solid white;
+	
+}
+.xy1 a
+{
+	
+	color:white;
+	text-decoration:none;
+	
+}
+.xy1:hover
+{
+	background-color:orange;
+	
+	
+}
+#t2
+{
+	background-color:#ffffcc;
+}
+#t2 #cdiv1 
+{
+	margin-top:-150px;
+        text-decoration:none;
+	text-align:right;
+	color:grey;
+}
+ .a1:hover
+{
+	text-decoration:underline;
+	background-color:orange;
+	color:white;
+}
+#t2 span
+{
+	font-size:20px;
+	color:blue;
+}
+#ctable1
+{
+	margin-top:30px;
+	font-size:18px;
+}
+#ctable2
+{
+	margin-top:30px;
+	margin-left:150px;
+}
+#ctable3
+{
+	margin-top:60px;
+}
+
+	
+#t3
+{	border-radius:8px;
+	background-color:#ffcc66;
+}
+
+#wdiv1
+{
+	margin-top:-450px;
+        text-decoration:none;
+	text-align:right;
+	color:grey;
+}
+#t2 #wdiv1 .a1:hover
+{
+ 	text-decoration:underline;
+	background-color:orange;
+	color:white;
+}
+/* ****************************T&P****************** */
+#t2 #tpdiv1
+{
+	margin-top:-50px;
+}
+#t2 table th
+{
+	color:blue;
+}
+/* **********************Admission************* */
+#t2 #atable1
+{
+	color:navy;
+}
+#t2 #adiv1
+{
+	margin-top:-60px;
+}
+
+
+/* ***************Research Areas*************** */
+#ratable1
+{
+	margin-top:20px;
+}
+
+#t2 #radiv1
+{
+	margin-top:-130px;
+        text-decoration:none;
+	text-align:right;
+	color:grey;
+}
+/* **************Research Centre*************** */
+
+#t2 #rcdiv1
+{
+	margin-top:-450px;
+	text-decoration:none;
+	text-align:right;
+	color:grey;
+}
+/* **************sponsored reserach*********** */
+#rsdiv1
+{
+	margin-top:-150px;
+	text-decoration:none;
+	text-align:right;
+	color:grey;
+}
+/* **************Facilities************* */
+#lrdiv1
+{
+	margin-top:-180px;
+}
+
+
+#spdiv1
+{	margin-top:-50px;
+}
+#lddiv1
+{
+	margin-top:-200px;
+}
+
+#sfdiv1
+{
+	margin-top:-350px;
+}
+
+
+/*********University(jaypee Group)***********/
+#jpdiv1
+{
+	margin-top:-450px;
+}
+/*****University(JSS)********/
+
+#jssdiv1
+{
+	margin-top:50px;
+}
+
+/*****News Letter*******/
+#nldiv1{
+	margin-top:-450px;
+}
